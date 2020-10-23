@@ -1,2 +1,2 @@
-# hello-orld
+# hello-world
 Just a test repository
